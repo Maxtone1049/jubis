@@ -1,7 +1,7 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/jubiyyzk/
+    - export DEPLOYPATH=/home/jubiyyzk/public_html/jubis
     - /bin/cp -R assets $DEPLOYPATH
     - /bin/cp index.html $DEPLOYPATH
     - /bin/cp contact-us.html $DEPLOYPATH
