@@ -1,5 +1,9 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/jubiyyzk/repositories/jubis/public_html/
+    - export DEPLOYPATH=/home/jubiyyzk/public_html/
     - /bin/cp -R assets $DEPLOYPATH
+    - /bin/cp index.html $DEPLOYPATH
+    - /bin/cp contact-us.html $DEPLOYPATH
+    - /bin/cp about-us.html $DEPLOYPATH
+    - /bin/cp services.html $DEPLOYPATH
