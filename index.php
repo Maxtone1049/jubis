@@ -37,11 +37,11 @@
               <a href=".">Home</a>
              </li>
              <li class="menu-item menu-item-has-children">
-               <a href="about-us.html">About</a>
+               <a href="about-us">About</a>
                
             </li>
            <li class="menu-item menu-item-has-children">
-              <a href="services.html">Services</a>
+              <a href="services">Services</a>
               
            </li>
           <li class="menu-item">
@@ -194,7 +194,7 @@
                          </li>
                        </ul>
                      </div>
-                     <a href="contact-us.html" class="sigma_btn-custom ml-5">Get a quote</a>
+                     <a href="contact-us" class="sigma_btn-custom ml-5">Get a quote</a>
                    </div>
                     <div class="sigma_header-controls style-2 d-block d-lg-none">
                      <ul class="sigma_header-controls-inner">
@@ -217,15 +217,15 @@
                                <a href=".">Home</a>
                               </li>
                               <li class="menu-item menu-item-has-children">
-                                <a href="about-us.html">About</a>
+                                <a href="about-us">About</a>
                                 
                              </li>
                             <li class="menu-item menu-item-has-children">
-                               <a href="services.html">Services</a>
+                               <a href="services">Services</a>
                                
                             </li>
                            <li class="menu-item">
-                               <a href="contact-us.html">Contact Us</a>
+                               <a href="contact-us">Contact Us</a>
                             </li>
                          </ul>
      
@@ -278,10 +278,7 @@
                            <h1 class="title text-white">JUBIS FRONTLINE
                             LOGISTICS LTD.</h1>
                            <p class="text-white">Unique Cargo & Shipping Company</p>
-                           <div class="section-button d-flex align-items-center">
-                              <a href="case-studies.html" class="sigma_btn-custom">Browse Projects <i class="far fa-arrow-right"></i> </a>
                            </div>
-                        </div>
                         <div class="offset-lg-2 col-lg-4 d-none d-lg-block">
                            <a href="#" class="sigma_video-popup bg-white popup-youtube">
                            <i class="fas fa-play"></i>
@@ -300,10 +297,7 @@
                         <div class="col-lg-6">
                            <h1 class="title text-white">JUBIS FRONTLINE LOGISTICS LTD.</h1>
                            <p class="text-white">Unique Cargo & Shipping Company</p>
-                           <div class="section-button d-flex align-items-center">
-                              <a href="case-studies.html" class="sigma_btn-custom">LEARN MORE <i class="far fa-arrow-right"></i> </a>
                            </div>
-                        </div>
                         <div class="offset-lg-2 col-lg-4 d-none d-lg-block">
                            <a href="https://www.youtube.com/watch?v=KH1pcNUTa6U" class="sigma_video-popup bg-white popup-youtube">
                            <i class="fas fa-play"></i>
@@ -573,7 +567,7 @@
               <h4 class="title">Have any questions about our services</h4>
             </div>
             <div class="section-button d-flex align-items-center">
-              <a href="contact-us.html" class="sigma_btn-custom">REACH US <i class="far fa-arrow-right"></i> </a>
+              <a href="contact-us" class="sigma_btn-custom">REACH US <i class="far fa-arrow-right"></i> </a>
            </div>
           </div>
         </div>
@@ -647,10 +641,10 @@
                       <a href=".">Home</a>
                     </li>
                     <li>
-                      <a href="about-us.html">About</a>
+                      <a href="about-us">About</a>
                     </li>
                    <li>
-                      <a href="contact-us.html">Contacts</a>
+                      <a href="contact-us">Contacts</a>
                     </li>
                    </ul>
                 </div>

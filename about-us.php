@@ -45,15 +45,15 @@
          <a href=".">Home</a>
         </li>
         <li class="menu-item menu-item-has-children">
-          <a href="about-us.html">About</a>
+          <a href="about-us">About</a>
           
        </li>
       <li class="menu-item menu-item-has-children">
-         <a href="services.html">Services</a>
+         <a href="services">Services</a>
          
       </li>
      <li class="menu-item">
-         <a href="contact-us.html">Contact Us</a>
+         <a href="contact-us">Contact Us</a>
       </li>
    </ul>
  </aside>
@@ -202,7 +202,7 @@
                     </li>
                   </ul>
                 </div>
-                <a href="contact-us.html" class="sigma_btn-custom ml-5">Get a quote</a>
+                <a href="contact-us" class="sigma_btn-custom ml-5">Get a quote</a>
               </div>
                <div class="sigma_header-controls style-2 d-block d-lg-none">
                 <ul class="sigma_header-controls-inner">
@@ -225,15 +225,15 @@
                           <a href=".">Home</a>
                          </li>
                          <li class="menu-item menu-item-has-children">
-                           <a href="about-us.html">About</a>
+                           <a href="about-us">About</a>
                            
                         </li>
                        <li class="menu-item menu-item-has-children">
-                          <a href="services.html">Services</a>
+                          <a href="services">Services</a>
                           
                        </li>
                       <li class="menu-item">
-                          <a href="contact-us.html">Contact Us</a>
+                          <a href="contact-us">Contact Us</a>
                        </li>
                     </ul>
 
@@ -375,7 +375,7 @@
             </div>
 
             <div class="section-button d-flex align-items-center">
-              <a href="contact-us.html" class="sigma_btn-custom">REACH US <i class="far fa-arrow-right"></i> </a>
+              <a href="contact-us" class="sigma_btn-custom">REACH US <i class="far fa-arrow-right"></i> </a>
            </div>
 
           </div>
@@ -408,7 +408,7 @@
               <h5 class="widget-title">Quick Links</h5>
               <ul class="sigma_footer-links">
                 <li>
-                  <a href="services.html">Services</a>
+                  <a href="services">Services</a>
                 </li>
                 </ul>
             </div>
@@ -421,10 +421,10 @@
                   <a href=".">Home</a>
                 </li>
                 <li>
-                  <a href="about-us.html">About</a>
+                  <a href="about-us">About</a>
                 </li>
                <li>
-                  <a href="contact-us.html">Contacts</a>
+                  <a href="contact-us">Contacts</a>
                 </li>
                </ul>
             </div>
