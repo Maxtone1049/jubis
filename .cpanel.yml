@@ -7,3 +7,4 @@ deployment:
     - /bin/cp contact-us.php $DEPLOYPATH
     - /bin/cp about-us.php $DEPLOYPATH
     - /bin/cp services.php $DEPLOYPATH
+    - /bin/cp .htaccess $DEPLOYPATH
