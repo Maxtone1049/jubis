@@ -307,8 +307,8 @@
             <h4 class="title">MODERN & TRUSTED LOGISTICS COMPANY</h4>
           </div>
 <p>
-            Jubis Frontline Logistic Limited is a one-time logistic technical, ICT, E-commerce and Haulage hub, providing chandelling, frieght, technical, information technology E-commerce services to our highly esteemed customers
-            Our service spread across maritime, road and air freight logistics. We are equipped with well trained, experience personnel and staffs in various sectors to render world class logistics, Haulage, Technical & ICT Services
+Jubis Frontline Logistic Limited is a one-time logistic, technical, ICT, E-commerce and Haulage hub, providing chandelling, frieght, technical, information technology, E-commerce services to our highly esteemed customers, Air and Land Freight Services. <br>
+            Our service spread across maritime, road and air freight logistics. We are equipped with well trained, experience personnel and staffs in various sectors to render world class procurement logistics, Haulage, Technical & ICT Services
           </p>
 
           <div class="row">

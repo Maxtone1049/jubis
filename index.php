@@ -354,8 +354,8 @@
               </div>
               <div class="sigma_icon-block-content">
                 <h5> MISSION STATEMENT </h5>
-                <p>To become a profitable logistic technical, ICT and haulage company that embraced modern
-                  management techniques of technology to attain high customer sa􀆟sfac􀆟on</p>
+                <p>To become a profitable logistic technical, ICT and haulage company that embraces modern
+                  management techniques of technology to attain high customer satisfcation</p>
               </div>
             </div>
           </div>
@@ -377,8 +377,8 @@
             <h4 class="title">MODERN & TRUSTED LOGISTICS COMPANY</h4>
           </div>
           <p>
-            Jubis Frontline Logistic Limited is a one-time logistic technical, ICT, E-commerce and Haulage hub, providing chandelling, frieght, technical, information technology E-commerce services to our highly esteemed customers <br>
-            Our service spread across maritime, road and air freight logistics. We are equipped with well trained, experience personnel and staffs in various sectors to render world class logistics, Haulage, Technical & ICT Services
+            Jubis Frontline Logistic Limited is a one-time logistic, technical, ICT, E-commerce and Haulage hub, providing chandelling, frieght, technical, information technology, E-commerce services to our highly esteemed customers, Air and Land Freight Services. <br>
+            Our service spread across maritime, road and air freight logistics. We are equipped with well trained, experience personnel and staffs in various sectors to render world class procurement logistics, Haulage, Technical & ICT Services
           </p>
 
           <div class="row">
@@ -389,7 +389,7 @@
                 </div>
                 <div class="sigma_icon-block-content">
                   <h5> What do we do? </h5>
-                  <p style="text-align: justify;">We supply all kinds of ship consumables, from the engine room, deok bridge, galley and at dry dock be it food and beverages, marine engine spare parts, PPES, Stationeries & publications, electrical & electronic tools & fittings, marine lubricant, hot works (Electrical and gas welding), HVAC services and refrigeration accessories & fittng, alarm systems, fire fightng & detection equipment, let communication equipment and haulage services</p>
+                  <p style="text-align: justify;">We supply all kinds of ship consumables, from the engine room, deok bridge, galley and at dry dock be it food and beverages, marine engine spare parts, PPES, Stationeries & publications, electrical & electronic tools & fittings, marine lubricant, hot works (Electrical and gas welding), HVAC services and refrigeration accessories & fittng, alarm systems, fire fightng & detection equipment ship, let communication equipment and haulage services, movement of cargos  by Air and Land, within Nigeria and around Africa</p>
                 </div>
               </div>
             </div>
@@ -400,7 +400,7 @@
                 </div>
                 <div class="sigma_icon-block-content">
                   <h5>What makes us different</h5>
-                  <p style="text-align: justify;">We have resolved and are determined never at all times to do it the lopsided ways where any thing go, but rather we have decided entrances standard and work best practice into our systems and painstakingly beyond our comfort deliver outstanding value to our esteemed client. Please afford us the opportunity to serve your needs at all times.</p>
+                  <p style="text-align: justify;">We have resolved and are determined never at any times to do it the lopsided ways where any thing goes, but rather we have decided to embrace standard and world best practice into our systems and painstakingly beyond our comfort deliver outstanding value to our esteemed client. Please afford us the opportunity to serve your needs at all times.</p>
                 </div>
               </div>
             </div>
@@ -473,7 +473,7 @@
                      </div>
                      <div class="sigma_service-body">
                         <!-- <h5>LOCAL DELIVERY</h5> -->
-                        <p>We supply and provide services at a very unbeatable press in the market</p>
+                        <p>We supply and provide services at a very unbeatable prices in the market</p>
                         <!-- <a href="service-details.html" class="btn-link"> Read More <i class="far fa-arrow-right"></i> </a> -->
                      </div>
                   </div>

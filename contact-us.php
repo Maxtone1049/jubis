@@ -23,7 +23,7 @@
   <!-- Template Style sheet -->
   <link rel="stylesheet" href="assets/css/style.css">
   <link rel="stylesheet" href="assets/css/responsive.css">
-  <script src="../../../../../www.google.com/recaptcha/api7258.js?render=6LdxUhMaAAAAAIrQt-_6Gz7F_58S4FlPWaxOh5ib"></script>
+  <script src="www.google.com/recaptcha/api7258.js?render=6LdxUhMaAAAAAIrQt-_6Gz7F_58S4FlPWaxOh5ib"></script>
   <!-- partial -->
 
 </head>
@@ -338,8 +338,8 @@
               </div>
               <div class="sigma_icon-block-content">
                 <h5> MISSION STATEMENT </h5>
-                <p>To become a profitable logistic technical, ICT and haulage company that embraced modern
-                  management techniques of technology to attain high customer sa􀆟sfac􀆟on</p>
+                <p>To become a profitable logistic technical, ICT and haulage company that embraces modern
+                  management techniques of technology to attain high customer satisfcation</p>
               </div>
             </div>
           </div>
