@@ -153,7 +153,7 @@
                   <li> 
                     <a href="#">
                       <i class="fal fa-map-marker-alt"></i>
-                      34 Revelation Drive, Paradise Estate, Eneka PH
+                      3 Revelation Drive, Paradise Estate, Eneka PH
                     </a> 
                   </li>
                 </ul>
@@ -187,7 +187,7 @@
                         <i class="fal fa-map-marker-alt"></i>
                         <div>
                          <p>Our Address</p>
-                         <p><b>34 Revelation Drive, Paradise Estate, Eneka PH</b></p>
+                         <p><b>3 Revelation Drive, Paradise Estate, Eneka PH</b></p>
                         </div>
                       </a> 
                     </li>
@@ -783,7 +783,7 @@ Our service spread across maritime, road and air freight logistics. We are equip
               <h5 class="widget-title">Contact Details</h5>
               <div class="row">
                 <div class="col-sm-9">
-                  <p class="m-0">34 Revelation Drive, Paradise Estate, Eneka PH</p>
+                  <p class="m-0">3 Revelation Drive, Paradise Estate, Eneka PH</p>
                 </div>
               </div>
             </div>

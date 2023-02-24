@@ -154,7 +154,7 @@
                   <li> 
                     <a href="#">
                       <i class="fal fa-map-marker-alt"></i>
-                      34 Revelation Drive, Paradise Estate, Eneka PH
+                      3 Revelation Drive, Paradise Estate, Eneka PH
                     </a> 
                   </li>
                 </ul>
@@ -188,7 +188,7 @@
                         <i class="fal fa-map-marker-alt"></i>
                         <div>
                          <p>Our Address</p>
-                         <p><b>34 Revelation Drive, Paradise Estate, Eneka PH</b></p>
+                         <p><b>3 Revelation Drive, Paradise Estate, Eneka PH</b></p>
                         </div>
                       </a> 
                     </li>
@@ -401,7 +401,7 @@
 
   <!-- Map Start -->
   <div class="sigma_map">
-  <iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d3975.2975102447795!2d7.02370616483458!3d4.889768491350458!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1s34%20Revelation%20Drive%2C%20Paradise%20Estate%2C%20Eneka%20PH!5e0!3m2!1sen!2sng!4v1677049265630!5m2!1sen!2sng"  allowfullscreen=""  loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d3975.2975102447795!2d7.0237061648358!3d4.889768491350458!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1s3%20Revelation%20Drive%2C%20Paradise%20Estate%2C%20Eneka%20PH!5e0!3m2!1sen!2sng!4v1677049265630!5m2!1sen!2sng"  allowfullscreen=""  loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
   </div>
   <!-- Map End -->
 
@@ -418,7 +418,7 @@
               <h5 class="widget-title">Contact Details</h5>
               <div class="row">
                 <div class="col-sm-9">
-                  <p class="m-0">34 Revelation Drive, Paradise Estate, Eneka PH</p>
+                  <p class="m-0">3 Revelation Drive, Paradise Estate, Eneka PH</p>
                 </div>
               </div>
             </div>
