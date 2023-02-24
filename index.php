@@ -628,7 +628,7 @@
                   <h5 class="widget-title">Quick Links</h5>
                   <ul class="sigma_footer-links">
                     <li>
-                      <a href="services.html">Services</a>
+                      <a href="services">Services</a>
                     </li>
                     </ul>
                 </div>
