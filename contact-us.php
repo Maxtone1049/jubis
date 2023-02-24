@@ -32,32 +32,32 @@
 
   <!-- partial:partia/__mobile-nav.html -->
   <aside class="sigma_aside">
-    <div class="sigma_close aside-trigger">
-       <span></span>
-       <span></span>
-    </div>
-    <div class="sigma_logo-wrapper">
-       <a class="sigma_logo" href=".">
-       <img src="assets/img/logo.png" alt="logo">
-       </a>
-    </div>
-    <ul class="navbar-nav">
-      <li class="menu-item menu-item-has-children">
-         <a href=".">Home</a>
-        </li>
-        <li class="menu-item menu-item-has-children">
-          <a href="about-us">About</a>
-          
-       </li>
-      <li class="menu-item menu-item-has-children">
-         <a href="services">Services</a>
-         
-      </li>
-     <li class="menu-item">
-         <a href="contact-us">Contact Us</a>
-      </li>
-   </ul>
- </aside>
+         <div class="sigma_close aside-trigger">
+            <span></span>
+            <span></span>
+         </div>
+         <div class="sigma_logo-wrapper">
+            <a class="sigma_logo" href=".">
+            <img src="assets/img/logo.png" alt="logo">
+            </a>
+         </div>
+         <ul class="navbar-nav">
+           <li class="menu-item">
+              <a href=".">Home</a>
+             </li>
+             <li class="menu-item">
+               <a href="about-us">About</a>
+               
+            </li>
+           <li class="menu-item">
+              <a href="services">Services</a>
+              
+           </li>
+          <li class="menu-item">
+              <a href="contact-us.html">Contact Us</a>
+           </li>
+        </ul>
+      </aside>
  <div class="sigma_aside-overlay aside-trigger"></div>
  <!-- partial -->
  <!-- partial:partia/__sidenav.html -->

@@ -33,14 +33,14 @@
             </a>
          </div>
          <ul class="navbar-nav">
-           <li class="menu-item menu-item-has-children">
+           <li class="menu-item">
               <a href=".">Home</a>
              </li>
-             <li class="menu-item menu-item-has-children">
+             <li class="menu-item">
                <a href="about-us">About</a>
                
             </li>
-           <li class="menu-item menu-item-has-children">
+           <li class="menu-item">
               <a href="services">Services</a>
               
            </li>
