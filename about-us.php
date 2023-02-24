@@ -53,7 +53,7 @@
               
            </li>
           <li class="menu-item">
-              <a href="contact-us.html">Contact Us</a>
+              <a href="contact-us">Contact Us</a>
            </li>
         </ul>
       </aside>
