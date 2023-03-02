@@ -9,7 +9,7 @@
   <!-- Favicon -->
   <link rel="icon" type="image/png" sizes="32x32" href="assets/img/logo.png">
 
-  <!-- partial:partial/__stylesheets.html -->
+  <!-- partial:partial/__stylesheets -->
   <link rel="stylesheet" href="assets/css/plugins/bootstrap.min.css">
   <link rel="stylesheet" href="assets/css/plugins/animate.min.css">
   <link rel="stylesheet" href="assets/css/plugins/magnific-popup.css">
@@ -51,10 +51,10 @@
             <li class="menu-item menu-item-has-children">
               <a href="#">Services</a>
               <ul class="sub-menu">
-                 <li class="menu-item"> <a href="shipinfo.html">Ship Information & Communication Technology</a> </li>
-                 <li class="menu-item"> <a href="techserv.html">Technical Services</a> </li>
-                 <li class="menu-item"> <a href="shipchan.html">Ship Chandling and Logistic Service</a> </li>
-                 <li class="menu-item"> <a href="land.html">Logistics</a> </li>
+                 <li class="menu-item"> <a href="shipinfo">Ship Information & Communication Technology</a> </li>
+                 <li class="menu-item"> <a href="techserv">Technical Services</a> </li>
+                 <li class="menu-item"> <a href="shipchan">Ship Chandling and Logistic Service</a> </li>
+                 <li class="menu-item"> <a href="land">Logistics</a> </li>
               </ul>
            </li>
           <li class="menu-item">
@@ -64,7 +64,7 @@
       </aside>
  <div class="sigma_aside-overlay aside-trigger"></div>
  <!-- partial -->
- <!-- partial:partia/__sidenav.html -->
+ <!-- partial:partia/__sidenav -->
  <aside class="sigma_aside sigma_aside-desktop">
     <div class="sidebar">
        <div class="sidebar-widget widget-logo">
@@ -141,7 +141,7 @@
  </aside>
       <div class="sigma_aside-overlay aside-trigger-right"></div>
       <!-- partial -->
-      <!-- partial:partia/__header.html -->
+      <!-- partial:partia/__header -->
       <header class="sigma_header style-5 can-sticky">
         <div class="sigma_header-top dark-bg d-none d-md-block">
           <div class="container">
@@ -235,10 +235,10 @@
                         <li class="menu-item menu-item-has-children">
               <a href="#">Services</a>
               <ul class="sub-menu">
-                 <li class="menu-item"> <a href="shipinfo.html">Ship Information & Communication Technology</a> </li>
-                 <li class="menu-item"> <a href="techserv.html">Technical Services</a> </li>
-                 <li class="menu-item"> <a href="shipchan.html">Ship Chandling and Logistic Service</a> </li>
-                 <li class="menu-item"> <a href="land.html">Logistics</a> </li>
+                 <li class="menu-item"> <a href="shipinfo">Ship Information & Communication Technology</a> </li>
+                 <li class="menu-item"> <a href="techserv">Technical Services</a> </li>
+                 <li class="menu-item"> <a href="shipchan">Ship Chandling and Logistic Service</a> </li>
+                 <li class="menu-item"> <a href="land">Logistics</a> </li>
               </ul>
            </li>
           
@@ -284,7 +284,7 @@
          </form>
       </div>
       <!-- partial -->
-  <!-- partial:partia/__subheader.html -->
+  <!-- partial:partia/__subheader -->
   <div class="sigma_subheader subheader-lg dark-overlay" style="background-image: url(assets/img/subheader.jpg)">
 
     <div class="container">
@@ -413,7 +413,7 @@
   </div>
   <!-- Map End -->
 
-  <!-- partial:partia/__footer.html -->
+  <!-- partial:partia/__footer -->
   <footer class="sigma_footer style-3 sigma_footer-dark pattern-squares pb-0">
     <div class="sigma_footer-middle">
       <div class="container">
@@ -483,7 +483,7 @@
     </div>
   </footer>
   <!-- partial -->
-  <!-- partial:partia/__scripts.html -->
+  <!-- partial:partia/__scripts -->
   <script src="assets/js/plugins/jquery-3.5.1.min.js"></script>
   <script src="assets/js/plugins/popper.min.js"></script>
   <script src="assets/js/plugins/bootstrap.min.js"></script>
