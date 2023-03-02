@@ -21,8 +21,7 @@
       <!-- partial -->
    </head>
    <body>
-      <!-- partial:partia/__mobile-nav.html -->
-      <aside class="sigma_aside">
+   <aside class="sigma_aside">
          <div class="sigma_close aside-trigger">
             <span></span>
             <span></span>
@@ -40,219 +39,229 @@
                <a href="about-us">About</a>
                
             </li>
-           <li class="menu-item">
-              <a href="services">Services</a>
-              
+            <li class="menu-item menu-item-has-children">
+              <a href="#">Services</a>
+              <ul class="sub-menu">
+                 <li class="menu-item"> <a href="shipinfo.html">Ship Information & Communication Technology</a> </li>
+                 <li class="menu-item"> <a href="techserv.html">Technical Services</a> </li>
+                 <li class="menu-item"> <a href="shipchan.html">Ship Chandling and Logistic Service</a> </li>
+                 <li class="menu-item"> <a href="land.html">Logistics</a> </li>
+                 <li class="menu-item"> <a href="ict.html">ICT/Communicaton accessory supply services</a> </li>
+              </ul>
            </li>
           <li class="menu-item">
               <a href="contact-us">Contact Us</a>
            </li>
         </ul>
       </aside>
-      <div class="sigma_aside-overlay aside-trigger"></div>
+ <div class="sigma_aside-overlay aside-trigger"></div>
+ <!-- partial -->
+ <!-- partial:partia/__sidenav.html -->
+ <aside class="sigma_aside sigma_aside-desktop">
+    <div class="sidebar">
+       <div class="sidebar-widget widget-logo">
+          <img src="assets/img/logo.png" class="mb-30" alt="img">
+          <p>To become the world's preferred logistics hub, rendering unsaved services to our esteemed clients at all cost.</p>
+       </div>
+       <!-- Instagram Start -->
+       <div class="sidebar-widget widget-ig">
+          <h5 class="widget-title">Instagram</h5>
+          <div class="row">
+             <div class="col-lg-4 col-md-4 col-sm-4 col-6">
+                <a href="#" class="sigma_ig-item">
+                <img src="assets/img/ig/1.jpg" alt="ig">
+                </a>
+             </div>
+             <div class="col-lg-4 col-md-4 col-sm-4 col-6">
+                <a href="#" class="sigma_ig-item">
+                <img src="assets/img/ig/2.jpg" alt="ig">
+                </a>
+             </div>
+             <div class="col-lg-4 col-md-4 col-sm-4 col-6">
+                <a href="#" class="sigma_ig-item">
+                <img src="assets/img/ig/3.jpg" alt="ig">
+                </a>
+             </div>
+             <div class="col-lg-4 col-md-4 col-sm-4 col-6">
+                <a href="#" class="sigma_ig-item">
+                <img src="assets/img/ig/4.jpg" alt="ig">
+                </a>
+             </div>
+             <div class="col-lg-4 col-md-4 col-sm-4 col-6">
+                <a href="#" class="sigma_ig-item">
+                <img src="assets/img/ig/5.jpg" alt="ig">
+                </a>
+             </div>
+             <div class="col-lg-4 col-md-4 col-sm-4 col-6">
+                <a href="#" class="sigma_ig-item">
+                <img src="assets/img/ig/6.jpg" alt="ig">
+                </a>
+             </div>
+          </div>
+       </div>
+       <!-- Instagram End -->
+       <!-- Social Media Start -->
+       <div class="sidebar-widget">
+          <h5 class="widget-title">Follow Us</h5>
+          <div class="sigma_post-share">
+             <ul class="sigma_sm square light">
+                <li>
+                   <a href="#">
+                   <i class="fab fa-facebook-f"></i>
+                   </a>
+                </li>
+                <li>
+                   <a href="#">
+                   <i class="fab fa-linkedin-in"></i>
+                   </a>
+                </li>
+                <li>
+                   <a href="#">
+                   <i class="fab fa-twitter"></i>
+                   </a>
+                </li>
+                <li>
+                   <a href="#">
+                   <i class="fab fa-youtube"></i>
+                   </a>
+                </li>
+             </ul>
+          </div>
+       </div>
+       <!-- Social Media End -->
+    </div>
+ </aside>
+      <div class="sigma_aside-overlay aside-trigger-right"></div>
       <!-- partial -->
-      <!-- partial:partia/__sidenav.html -->
-      <aside class="sigma_aside sigma_aside-desktop">
-         <div class="sidebar">
-            <div class="sidebar-widget widget-logo">
-               <img src="assets/img/logo.png" class="mb-30" alt="img">
-               <p>To become the world's preferred logistics hub, rendering unsaved services to our esteemed clients at all cost.</p>
+      <!-- partial:partia/__header.html -->
+      <header class="sigma_header style-5 can-sticky">
+        <div class="sigma_header-top dark-bg d-none d-md-block">
+          <div class="container">
+            <div class="sigma_header-top-inner">
+
+              <div class="sigma_header-top-links">
+                <ul class="sigma_header-top-nav">
+                  <li> 
+                    <a href="#">
+                      <i class="fal fa-envelope"></i>
+                      infor@jubislogisticsltd.com
+                    </a> 
+                  </li>
+                  <li> 
+                    <a href="#">
+                      <i class="fal fa-map-marker-alt"></i>
+                      3 Revelation Drive, Paradise Estate, Eneka PH
+                    </a> 
+                  </li>
+                </ul>
+              </div>
+
+              <div class="sigma_header-top-contacts">
+                <ul class="sigma_header-top-nav">
+                  <li> <a href="#"><i class="fab fa-facebook-f"></i></a> </li>
+                  <li> <a href="#"><i class="fab fa-twitter"></i></a> </li>
+                  <li> <a href="#"><i class="fab fa-linkedin-in"></i></a> </li>
+                  <li> <a href="#"><i class="fab fa-google"></i></a> </li>
+                </ul>
+              </div>
+
             </div>
-            <!-- Instagram Start -->
-            <div class="sidebar-widget widget-ig">
-               <h5 class="widget-title">Instagram</h5>
-               <div class="row">
-                  <div class="col-lg-4 col-md-4 col-sm-4 col-6">
-                     <a href="#" class="sigma_ig-item">
-                     <img src="assets/img/ig/1.jpg" alt="ig">
-                     </a>
-                  </div>
-                  <div class="col-lg-4 col-md-4 col-sm-4 col-6">
-                     <a href="#" class="sigma_ig-item">
-                     <img src="assets/img/ig/2.jpg" alt="ig">
-                     </a>
-                  </div>
-                  <div class="col-lg-4 col-md-4 col-sm-4 col-6">
-                     <a href="#" class="sigma_ig-item">
-                     <img src="assets/img/ig/3.jpg" alt="ig">
-                     </a>
-                  </div>
-                  <div class="col-lg-4 col-md-4 col-sm-4 col-6">
-                     <a href="#" class="sigma_ig-item">
-                     <img src="assets/img/ig/4.jpg" alt="ig">
-                     </a>
-                  </div>
-                  <div class="col-lg-4 col-md-4 col-sm-4 col-6">
-                     <a href="#" class="sigma_ig-item">
-                     <img src="assets/img/ig/5.jpg" alt="ig">
-                     </a>
-                  </div>
-                  <div class="col-lg-4 col-md-4 col-sm-4 col-6">
-                     <a href="#" class="sigma_ig-item">
-                     <img src="assets/img/ig/6.jpg" alt="ig">
-                     </a>
-                  </div>
-               </div>
-            </div>
-            <!-- Instagram End -->
-            <!-- Social Media Start -->
-            <div class="sidebar-widget">
-               <h5 class="widget-title">Follow Us</h5>
-               <div class="sigma_post-share">
-                  <ul class="sigma_sm square light">
-                     <li>
-                        <a href="#">
-                        <i class="fab fa-facebook-f"></i>
-                        </a>
-                     </li>
-                     <li>
-                        <a href="#">
-                        <i class="fab fa-linkedin-in"></i>
-                        </a>
-                     </li>
-                     <li>
-                        <a href="#">
-                        <i class="fab fa-twitter"></i>
-                        </a>
-                     </li>
-                     <li>
-                        <a href="#">
-                        <i class="fab fa-youtube"></i>
-                        </a>
-                     </li>
+          </div>
+        </div>
+        <div class="sigma_header-middle">
+          <div class="container">
+            <div class="navbar">
+              <div class="sigma_logo-wrapper">
+               <a class="sigma_logo" href="." style="width: 40%;">
+                  <img src="assets/img/logo.png" alt="logo">
+                </a>
+              </div>
+              <div class="d-none d-lg-flex align-items-center">
+                <div class="sigma_header-top-links important-links">
+                  <ul class="sigma_header-top-nav">
+                    <li> 
+                      <a href="#">
+                        <i class="fal fa-map-marker-alt"></i>
+                        <div>
+                         <p>Our Address</p>
+                         <p><b>3 Revelation Drive, Paradise Estate, Eneka PH</b></p>
+                        </div>
+                      </a> 
+                    </li>
+                    <li> 
+                      <a href="tel:+2348138249456" >
+                        <i class="fal fa-phone"></i>
+                        <div>
+                         <p>Call Us</p>
+                         <p><b>(+234) 813 824 9456</b></p>
+                        </div>
+                      </a> 
+                    </li>
                   </ul>
-               </div>
+                </div>
+                <a href="contact-us" class="sigma_btn-custom ml-5">Get a quote</a>
+              </div>
+               <div class="sigma_header-controls style-2 d-block d-lg-none">
+                <ul class="sigma_header-controls-inner">
+                  <li class="aside-toggle aside-trigger">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                  </li>
+                </ul>
+              </div>
             </div>
-            <!-- Social Media End -->
-         </div>
-      </aside>
-           <div class="sigma_aside-overlay aside-trigger-right"></div>
-           <!-- partial -->
-           <!-- partial:partia/__header.html -->
-           <header class="sigma_header style-5 can-sticky">
-             <div class="sigma_header-top dark-bg d-none d-md-block">
-               <div class="container">
-                 <div class="sigma_header-top-inner">
-     
-                   <div class="sigma_header-top-links">
-                     <ul class="sigma_header-top-nav">
-                       <li> 
-                         <a href="#">
-                           <i class="fal fa-envelope"></i>
-                           infor@jubislogisticsltd.com
-                         </a> 
-                       </li>
-                       <li> 
-                         <a href="#">
-                           <i class="fal fa-map-marker-alt"></i>
-                           3 Revelation Drive, Paradise Estate, Eneka PH
-                         </a> 
-                       </li>
-                     </ul>
-                   </div>
-     
-                   <div class="sigma_header-top-contacts">
-                     <ul class="sigma_header-top-nav">
-                       <li> <a href="#"><i class="fab fa-facebook-f"></i></a> </li>
-                       <li> <a href="#"><i class="fab fa-twitter"></i></a> </li>
-                       <li> <a href="#"><i class="fab fa-linkedin-in"></i></a> </li>
-                       <li> <a href="#"><i class="fab fa-google"></i></a> </li>
-                     </ul>
-                   </div>
-     
-                 </div>
-               </div>
-             </div>
-             <div class="sigma_header-middle">
-               <div class="container">
-                 <div class="navbar">
-                   <div class="sigma_logo-wrapper">
-                    <a class="sigma_logo" href="." style="width: 40%;">
-                       <img src="assets/img/logo.png" alt="logo">
-                     </a>
-                   </div>
-                   <div class="d-none d-lg-flex align-items-center">
-                     <div class="sigma_header-top-links important-links">
-                       <ul class="sigma_header-top-nav">
-                         <li> 
-                           <a href="#">
-                             <i class="fal fa-map-marker-alt"></i>
-                             <div>
-                              <p>Our Address</p>
-                              <p><b>3 Revelation Drive, Paradise Estate, Eneka PH</b></p>
-                             </div>
-                           </a> 
+          </div>
+        </div>
+        <div class="sigma_header-bottom">
+          <div class="container">
+            <div class="navbar">
+
+              <ul class="navbar-nav">
+                       <li class="menu-item menu-item-has-children">
+                          <a href=".">Home</a>
                          </li>
-                         <li> 
-                           <a href="tel:+2348138249456" >
-                             <i class="fal fa-phone"></i>
-                             <div>
-                              <p>Call Us</p>
-                              <p><b>(+234) 813 824 9456</b></p>
-                             </div>
-                           </a> 
-                         </li>
-                       </ul>
-                     </div>
-                     <a href="contact-us" class="sigma_btn-custom ml-5">Get a quote</a>
-                   </div>
-                    <div class="sigma_header-controls style-2 d-block d-lg-none">
-                     <ul class="sigma_header-controls-inner">
-                       <li class="aside-toggle aside-trigger">
-                         <span></span>
-                         <span></span>
-                         <span></span>
+                         <li class="menu-item menu-item-has-children">
+                           <a href="about-us">About</a>
+                          </li>
+                        <li class="menu-item menu-item-has-children">
+              <a href="#">Services</a>
+              <ul class="sub-menu">
+                 <li class="menu-item"> <a href="shipinfo.html">Ship Information & Communication Technology</a> </li>
+                 <li class="menu-item"> <a href="techserv.html">Technical Services</a> </li>
+                 <li class="menu-item"> <a href="shipchan.html">Ship Chandling and Logistic Service</a> </li>
+                 <li class="menu-item"> <a href="land.html">Logistics</a> </li>
+              </ul>
+           </li>
+           <li class="menu-item">
+                          <a href="contact-us">Contact Us</a>
                        </li>
-                     </ul>
-                   </div>
-                 </div>
-               </div>
-             </div>
-             <div class="sigma_header-bottom">
-               <div class="container">
-                 <div class="navbar">
-     
-                   <ul class="navbar-nav">
-                            <li class="menu-item menu-item-has-children">
-                               <a href=".">Home</a>
-                              </li>
-                              <li class="menu-item menu-item-has-children">
-                                <a href="about-us">About</a>
-                                
-                             </li>
-                            <li class="menu-item menu-item-has-children">
-                               <a href="services">Services</a>
-                               
-                            </li>
-                           <li class="menu-item">
-                               <a href="contact-us">Contact Us</a>
-                            </li>
-                         </ul>
-     
-                   <div class="sigma_header-controls style-2">
-                     <ul class="sigma_header-controls-inner">
-                       <li class="search-trigger header-controls-item d-none d-sm-block">
-                         <a class="sigma_header-control-search" title="Search" href="#">
-                           <i class="far fa-search"></i>
-                         </a>
-                       </li>
-                       <li class="aside-toggle aside-trigger-right desktop-toggler">
-                         <span></span>
-                         <span></span>
-                         <span></span>
-                       </li>
-                       <li class="aside-toggle aside-trigger">
-                         <span></span>
-                         <span></span>
-                         <span></span>
-                       </li>
-                     </ul>
-                   </div>
-     
-                 </div>
-               </div>
-             </div>
-          </header>
+                    </ul>
+
+              <div class="sigma_header-controls style-2">
+                <ul class="sigma_header-controls-inner">
+                  <li class="search-trigger header-controls-item d-none d-sm-block">
+                    <a class="sigma_header-control-search" title="Search" href="#">
+                      <i class="far fa-search"></i>
+                    </a>
+                  </li>
+                  <li class="aside-toggle aside-trigger-right desktop-toggler">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                  </li>
+                  <li class="aside-toggle aside-trigger">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                  </li>
+                </ul>
+              </div>
+
+            </div>
+          </div>
+        </div>
+     </header>
       <div class="search-form-wrapper">
          <div class="search-trigger sigma_close">
             <span></span>

@@ -30,8 +30,7 @@
 
 <body>
 
-  <!-- partial:partia/__mobile-nav.html -->
-  <aside class="sigma_aside">
+<aside class="sigma_aside">
          <div class="sigma_close aside-trigger">
             <span></span>
             <span></span>
@@ -49,9 +48,14 @@
                <a href="about-us">About</a>
                
             </li>
-           <li class="menu-item">
-              <a href="services">Services</a>
-              
+            <li class="menu-item menu-item-has-children">
+              <a href="#">Services</a>
+              <ul class="sub-menu">
+                 <li class="menu-item"> <a href="shipinfo.html">Ship Information & Communication Technology</a> </li>
+                 <li class="menu-item"> <a href="techserv.html">Technical Services</a> </li>
+                 <li class="menu-item"> <a href="shipchan.html">Ship Chandling and Logistic Service</a> </li>
+                 <li class="menu-item"> <a href="land.html">Logistics</a> </li>
+              </ul>
            </li>
           <li class="menu-item">
               <a href="contact-us">Contact Us</a>
@@ -227,12 +231,17 @@
                          </li>
                          <li class="menu-item menu-item-has-children">
                            <a href="about-us">About</a>
-                           
-                        </li>
-                       <li class="menu-item menu-item-has-children">
-                          <a href="services">Services</a>
-                          
-                       </li>
+                          </li>
+                        <li class="menu-item menu-item-has-children">
+              <a href="#">Services</a>
+              <ul class="sub-menu">
+                 <li class="menu-item"> <a href="shipinfo.html">Ship Information & Communication Technology</a> </li>
+                 <li class="menu-item"> <a href="techserv.html">Technical Services</a> </li>
+                 <li class="menu-item"> <a href="shipchan.html">Ship Chandling and Logistic Service</a> </li>
+                 <li class="menu-item"> <a href="land.html">Logistics</a> </li>
+              </ul>
+           </li>
+          
                       <li class="menu-item">
                           <a href="contact-us">Contact Us</a>
                        </li>
@@ -262,7 +271,6 @@
           </div>
         </div>
      </header>
-
       <div class="search-form-wrapper">
          <div class="search-trigger sigma_close">
             <span></span>
