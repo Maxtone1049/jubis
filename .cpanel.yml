@@ -6,5 +6,8 @@ deployment:
     - /bin/cp index.php $DEPLOYPATH
     - /bin/cp contact-us.php $DEPLOYPATH
     - /bin/cp about-us.php $DEPLOYPATH
-    - /bin/cp services.php $DEPLOYPATH
+    - /bin/cp land.php $DEPLOYPATH
+    - /bin/cp shipchan.php $DEPLOYPATH
+    - /bin/cp shipinfo.php $DEPLOYPATH
+    - /bin/cp techserv.php $DEPLOYPATH
     - /bin/cp .htaccess $DEPLOYPATH
